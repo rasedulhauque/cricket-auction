@@ -1,0 +1,21 @@
+{
+  "game": {
+    "initialBudget": 3750,
+    "minPlayersPerTeam": 15,
+    "minPlayerPrice": 50,
+    "bidTimerSeconds": 60
+  },
+  "teams": [
+    { "id": "DT", "name": "Dhaka Tigers"    },
+    { "id": "GGCC", "name": "Golden Gate CC" },
+    { "id": "MP", "name": "Mission Peak"   },
+    { "id": "VT", "name": "Valley Tigers"  }
+  ],
+  "passwords": {
+    "admin": "admin",
+    "DT": "amikawserjamal",
+    "GGCC": "whatislove",
+    "MP": "6miles",
+    "VT": "hi5biryani"
+  }
+}
