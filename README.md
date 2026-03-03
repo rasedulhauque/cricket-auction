@@ -78,11 +78,11 @@ npm start
 
 | Rule | Value |
 |------|-------|
-| Starting budget per team | ₹3,000 |
+| Starting budget per team | $3,750 |
 | Min players per team | 12 |
-| Minimum player price | ₹50 |
-| Bid increment | ₹50 |
-| Bid timer | 15 seconds |
+| Minimum player price | $50 |
+| Bid increment | $50 |
+| Bid timer | 30 seconds |
 | Teams | 4 |
 
 ### Max Bid Formula
